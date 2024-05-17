@@ -2,7 +2,11 @@
 
 ### For deployment to OpenShift on Rahti2
 
-See: https://fastapi.tiangolo.com/deployment/docker/
+Note: OpenShift wants the main branch to be named master by default.
+
+See also: https://fastapi.tiangolo.com/deployment/docker/
+
+
 
 ### For local deal-time development
 
