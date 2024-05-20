@@ -1,4 +1,4 @@
-# python-openshift
+# rahti2-fastapi 
 
 ### For deployment to Rahti2
 
